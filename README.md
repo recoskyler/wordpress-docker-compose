@@ -18,6 +18,14 @@ This is a simple Docker Compose example for setting up local WordPress with PMA 
 6. Open [the admin panel](http://localhost:8080)(<http://localhost:8080>) and install the **All-in-one WP Migration** plugin
 7. Follow the steps [here](https://gist.github.com/giovanni-d/f9a05638e0b31467762b71585e8c3bfa) to allow backup restore
 
+### WordPress
+
+WP will be available at <http://localhost:8080>
+
+### PMA
+
+PMA will be available at <http://localhost:8081>
+
 ## About
 
 By [recoskyler](https://github.com/recoskyler) - 2024
