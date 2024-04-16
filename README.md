@@ -28,5 +28,7 @@ PMA will be available at <http://localhost:8081>
 
 ## About
 
+Used Gist by [@erikyuzwa](https://gist.github.com/erikyuzwa/7411752ddcb95b09434aa88f38d91630). Thank you!
+
 By [recoskyler](https://github.com/recoskyler) - 2024
 
