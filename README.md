@@ -1,6 +1,6 @@
-# WordPress + MySQL + PMA Docker Compose
+# WordPress + MariaDB + PMA Docker Compose
 
-This is a simple Docker Compose example for setting up local WordPress with PMA and MySQL.
+This is a simple Docker Compose example for setting up local WordPress with PMA and MariaDB.
 
 ## Stack
 
